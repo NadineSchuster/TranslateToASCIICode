@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<asciiList>
+    <upperCaseLetters>
+
+        <letter letter="A">
+            <binary>01000001</binary>            
+        </letter>
+        <letter letter="B">
+            <binary>01000010</binary>            
+        </letter>
+        <letter letter="C">
+            <binary>01000011</binary>            
+        </letter>
+        <letter letter="D">
+            <binary>01000100</binary>            
+        </letter>
+        <letter letter="E">
+            <binary>01000101</binary>            
+        </letter>
+        <letter letter="F">
+            <binary>01000110</binary>            
+        </letter>
+        <letter letter="G">
+            <binary>01000111</binary>            
+        </letter>
+        <letter letter="H">
+            <binary>01001000</binary>            
+        </letter>
+        <letter letter="I">
+            <binary>01001001</binary>            
+        </letter>
+        <letter letter="J">
+            <binary>01001010</binary>            
+        </letter>
+        <letter letter="K">
+            <binary>01001011</binary>            
+        </letter>
+        <letter letter="L">
+            <binary>01001100</binary>            
+        </letter>
+        <letter letter="M">
+            <binary>01001101</binary>            
+        </letter>
+        <letter letter="N">
+            <binary>01001110</binary>            
+        </letter>
+        <letter letter="O">
+            <binary>01001111</binary>            
+        </letter>
+        <letter letter="P">
+            <binary>01010000</binary>            
+        </letter>
+        <letter letter="Q">
+            <binary>01010001</binary>            
+        </letter>
+        <letter letter="R">
+            <binary>01010010</binary>            
+        </letter>
+        <letter letter="S">
+            <binary>01010011</binary>            
+        </letter>
+        <letter letter="T">
+            <binary>01010100</binary>            
+        </letter>
+        <letter letter="U">
+            <binary>01010101</binary>            
+        </letter>
+        <letter letter="V">
+            <binary>01010110</binary>            
+        </letter>
+        <letter letter="W">
+            <binary>01010111</binary>            
+        </letter>
+        <letter letter="X">
+            <binary>01011000</binary>            
+        </letter>
+        <letter letter="Y">
+            <binary>01011001</binary>            
+        </letter>
+        <letter letter="Z">
+            <binary>01011010</binary>            
+        </letter>
+        
+    </upperCaseLetters>
+
+    <lowerCaseLetters>
+
+        <letter letter="a">
+            <binary>01100001</binary>            
+        </letter>
+        <letter letter="b">
+            <binary>01100010</binary>            
+        </letter>
+        <letter letter="c">
+            <binary>01100011</binary>            
+        </letter>
+        <letter letter="d">
+            <binary>01100100</binary>            
+        </letter>
+        <letter letter="e">
+            <binary>01100101</binary>            
+        </letter>
+        <letter letter="f">
+            <binary>01100110</binary>            
+        </letter>
+        <letter letter="g">
+            <binary>01100111</binary>            
+        </letter>
+        <letter letter="h">
+            <binary>01101000</binary>            
+        </letter>
+        <letter letter="i">
+            <binary>01101001</binary>            
+        </letter>
+        <letter letter="j">
+            <binary>01101010</binary>            
+        </letter>
+        <letter letter="k">
+            <binary>01101011</binary>            
+        </letter>
+        <letter letter="l">
+            <binary>01101100</binary>            
+        </letter>
+        <letter letter="m">
+            <binary>01101101</binary>            
+        </letter>
+        <letter letter="n">
+            <binary>01101110</binary>            
+        </letter>
+        <letter letter="o">
+            <binary>01101111</binary>            
+        </letter>
+        <letter letter="p">
+            <binary>01110000</binary>            
+        </letter>
+        <letter letter="q">
+            <binary>01110001</binary>            
+        </letter>
+        <letter letter="r">
+            <binary>01110010</binary>            
+        </letter>
+        <letter letter="s">
+            <binary>01110011</binary>            
+        </letter>
+        <letter letter="t">
+            <binary>01110100</binary>            
+        </letter>
+        <letter letter="u">
+            <binary>01110101</binary>            
+        </letter>
+        <letter letter="v">
+            <binary>01110110</binary>            
+        </letter>
+        <letter letter="w">
+            <binary>01110111</binary>            
+        </letter>
+        <letter letter="x">
+            <binary>01111000</binary>            
+        </letter>
+        <letter letter="y">
+            <binary>01111001</binary>            
+        </letter>
+        <letter letter="z">
+            <binary>01111010</binary>            
+        </letter>
+        
+    </lowerCaseLetters>
+</asciiList>
